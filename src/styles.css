@@ -1,1 +1,32 @@
 /* You can add global styles to this file, and also import other style files */
+h1 {
+    color: rgb(212, 94, 39);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80%;
+}
+.CustomHeader2{
+    color: rgb(44, 67, 196);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    text-align:center;
+    font-size: 150%;
+}
+
+.myCustomHeader {
+    color:rgb(189, 22, 211);
+    font-size: 90%;
+}
+body {
+    margin: 2em;
+}
+body,input[type="text"], button {
+    color: #333;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+* { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+    font-size: 100%;;
+
+}
